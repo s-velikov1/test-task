@@ -1,6 +1,6 @@
 /*
   Plan:
-    1. Split a text by space.
+    1. Split a text by word.
     2. Iterate through the array and find first unique character in each word.
     3. Return first unique character from the array of characters.
 */
